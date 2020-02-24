@@ -340,4 +340,14 @@ template {
 [hidden] {
   display: none;
 }
+
+.container {
+  background-color: teal;
+}
+
+@media (min-width: 1024px) {
+  .container {
+    background-color: white;
+  }
+}
 /*# sourceMappingURL=main.css.map */
