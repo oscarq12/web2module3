@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "/Users/oscarq./Downloads/github/web2module3/assets"
+		},
+		{
+			"path": "/Users/oscarq./Downloads/github/web2module3/js"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "styles"
+	}
+}
